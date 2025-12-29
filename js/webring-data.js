@@ -158,6 +158,15 @@ const members = [
         year: "11-25",
         grad: "2T8",
         badge: "https://jadenpark.ca/badge.png"
+    },
+    {
+      "name": "Ethan Yang",
+      "website": "https://ethanyang.dev/",
+      "program": "ECE, CE",
+      "designation": "BASc",
+      "year": "12-25", 
+      "grad": "2T9", 
+      "badge": "https://ethanyang.dev/badge.png"
     }
 ];
 
