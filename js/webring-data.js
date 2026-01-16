@@ -172,7 +172,7 @@ const members = [
     },
     {
       "name": "Kelvin Cao",
-      "website": "https://Kelvincao.ca",
+      "website": "https://kelvincao.ca",
       "program": "Mechanical",
       "designation": "BASc",
       "year": "1-26", 
