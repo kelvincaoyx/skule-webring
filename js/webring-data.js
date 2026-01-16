@@ -179,7 +179,6 @@ const members = [
       "grad": "2T5", 
       "badge": "https://kelvincao.ca/badge.gif"
     }
-    
 ];
 
 // Add your entry below this line in the following format:
